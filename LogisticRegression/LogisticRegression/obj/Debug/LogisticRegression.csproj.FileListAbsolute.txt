@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\SharpDevelop Projects\LogisticRegression\LogisticRegression\obj\Debug\LogisticRegression.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\SharpDevelop Projects\LogisticRegression\LogisticRegression\bin\Debug\LogisticRegression.exe.config
+C:\Users\Asus\Documents\SharpDevelop Projects\LogisticRegression\LogisticRegression\bin\Debug\LogisticRegression.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\LogisticRegression\LogisticRegression\bin\Debug\LogisticRegression.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\LogisticRegression\LogisticRegression\obj\Debug\LogisticRegression.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\LogisticRegression\LogisticRegression\obj\Debug\LogisticRegression.pdb

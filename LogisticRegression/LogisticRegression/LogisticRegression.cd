@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="LogisticRegression.Program" Collapsed="False">
+    <Position X="0.6" Y="2.3" Width="1.6" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="LogisticRegression.LogisticClassifier" Collapsed="False">
+    <Position X="2.8" Y="1.7" Width="2.3" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+      <Compartment Name="Nested Types" Collapsed="True" />
+    </Compartments>
+  </Class>
+</ClassDiagram>
